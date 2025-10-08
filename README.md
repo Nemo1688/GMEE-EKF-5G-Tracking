@@ -7,7 +7,7 @@ This repository demonstrates the robustness and accuracy of GMEE-EKF compared wi
 
 ---
 
-## 📘 Overview
+##  Overview
 
 This project focuses on **robust state estimation** using information-theoretic learning (ITL) criteria.  
 The GMEE-EKF combines the entropy-based error measurement of MEE with the flexibility of the **Generalized Gaussian Distribution (GGD)** to achieve higher stability and lower mean-square error under impulsive or mixed Gaussian noise.
@@ -20,14 +20,14 @@ The simulation includes:
 
 ---
 
-## 🧠 Research Context
+##  Research Context
 
 This implementation extends the concept of **Minimum Error Entropy (MEE)** filtering to a generalized framework, enabling enhanced adaptability in highly dynamic and non-Gaussian environments such as **5G wireless communications**.  
 The methodology can also be applied to GNSS signal tracking, sensor fusion, and non-linear system estimation problems.
 
 ---
 
-## 🧩 Repository Structure
+##  Repository Structure
 | Parameter | Description                    | Example  |
 | --------- | ------------------------------ | -------- |
 | `fc`      | Carrier frequency              | 28 GHz   |
